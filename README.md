@@ -17,25 +17,25 @@
 -  Store Location Data: Details about different store locations.
 - Product Data: Details about the various products offered by the Coffee Shop, including pricing and categories.
 
-#Key Analysis Performed
+## Key Analysis Performed
 
-Sales Variation by Day and Hour:
-Analyzed how sales vary by day of the week and hour of the day. Identified peak times for sales activity.
+#### Sales Variation by Day and Hour:
+- Analyzed how sales vary by day of the week and hour of the day. Identified peak times for sales activity.
 
-Peak Sales Periods:
-Determined the busiest times for the Coffee Shop based on sales activity.
+#### Peak Sales Periods:
+- Determined the busiest times for the Coffee Shop based on sales activity.
 
-Monthly Sales Revenue:
-Calculated total sales revenue for each month to track performance over time.
+#### Monthly Sales Revenue:
+- Calculated total sales revenue for each month to track performance over time.
 
-Sales by Store Location:
-Analyzed sales variation across different store locations to identify high and low-performing branches.
+#### Sales by Store Location:
+- Analyzed sales variation across different store locations to identify high and low-performing branches.
 
-Average Price/Order Per Person:
-Calculated the average price per order to understand customer spending patterns.
+#### Average Price/Order Per Person:
+- Calculated the average price per order to understand customer spending patterns.
 
-Best-Selling Products:
-Identified the best-selling products in terms of quantity sold and total revenue generated.
+#### Best-Selling Products:
+- Identified the best-selling products in terms of quantity sold and total revenue generated.
 
-Sales by Product Category and Type:
-Analyzed how sales vary by product category (e.g., beverages, food) and type (e.g., coffee, tea, sandwiches).
+#### Sales by Product Category and Type:
+- Analyzed how sales vary by product category (e.g., beverages, food) and type (e.g., coffee, tea, sandwiches).
